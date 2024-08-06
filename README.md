@@ -2,13 +2,13 @@
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
-- [Active Directory Deployment and Configuration](https://github.com/henrykim-projects/Active-Directory.git)
+- [Active Directory: Deployment and Configuration](https://github.com/henrykim-projects/Active-Directory.git)
 
 - <b>Zendesk Service Management<b>
 - [Zendesk Service Management: Ticket Life Cycle and Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
 
 <b>Cybersecurity</b>
-  - [File Integrity Monitor](https://github.com/henrykim-projects/file_integrity_monitor.git)
+- [Concepts of Cybersecurity: File Integrity Monitor](https://github.com/henrykim-projects/file_integrity_monitor.git)
 
 <h2>PM Projects</h2>
 
@@ -17,8 +17,8 @@
   - [D361 - Business Simulation and Performance Report Analysis](https://github.com/henrykim-projects/d361_hskim.git)
 
 <b>Travel</b> 
-- [Tokyo Itinerary/Budget Sheet]()
+- [Tokyo Itinerary & Budget Sheet]()
 - [Montreal Presentation]()
 
 <h2> 🤳 Connect with me:</h2>
-- [linkedin]: (https://www.linkedin.com/in/henry-kim-94208a273/)
+- [linkedin](https://www.linkedin.com/in/henry-kim-94208a273/)
