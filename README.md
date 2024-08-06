@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
-- [Active Directory Deployment and Configuration)](https://github.com/henrykim-projects/Active-Directory.git)
+- [Active Directory Deployment and Configuration](https://github.com/henrykim-projects/Active-Directory.git)
 
 - <b>Zendesk Service Management<b>
 - [Zendesk Service Management: Ticket Life Cycle and Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
