@@ -19,4 +19,6 @@
 <b>Travel</b> 
 - [Montreal Presentation]()
 - [Tokyo Itinerary/Budget Sheet]()
-[linkedin]: (https://www.linkedin.com/in/henry-kim-94208a273/)
+
+<h2> 🤳 Connect with me:</h2>
+- [linkedin]: (https://www.linkedin.com/in/henry-kim-94208a273/)
