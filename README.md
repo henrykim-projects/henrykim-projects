@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henry! <br/><a href="https://github.com/henrykim-projects"> IT Professional, Software Engineer, Project Planner
+<h1>Hi, I'm Henry! IT Professional, Software Engineer, Project Planner </h1> <br/>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
