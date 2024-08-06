@@ -10,12 +10,13 @@
 <b>Cybersecurity</b>
   - [Exploring Concepts of Cybersecurity: File Integrity Monitor]((https://github.com/henrykim-projects/file_integrity_monitor.git)
 
-<h2>Project Management Projects</h2>
+<h2>PM Projects</h2>
 
 <b>WGU IT Management</b>
   - [QFT1 - Capstone Business Plan](https://github.com/henrykim-projects/qft_capstone_hskim.git)
   - [D361 - Business Simulation](https://github.com/henrykim-projects/d361_hskim.git)
-  - 
-<h2> 🤳 Connect with me:</h2>
 
+<b>Travel</b> 
+- [Montreal Presentation]()
+- [Tokyo Itinerary/Budget Sheet]()
 [linkedin]: (https://www.linkedin.com/in/henry-kim-94208a273/)
