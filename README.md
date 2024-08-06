@@ -8,7 +8,7 @@
 - [Helpdesk Ticketing with Zendesk](https://github.com/henrykim-projects/zendesk_sampleticket.git)
 
 <b>Cybersecurity</b>
-  - [Exploring Concepts of Cybersecurity: File Integrity Monitor]((https://github.com/henrykim-projects/file_integrity_monitor.git)
+  - [File Integrity Monitor](https://github.com/henrykim-projects/file_integrity_monitor.git)
 
 <h2>PM Projects</h2>
 
