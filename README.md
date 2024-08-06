@@ -2,8 +2,9 @@
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
- [Managing Users in a Virtual Environment)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-<b>Zendesk<b>
+- [Managing Users in a Virtual Environment)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Zendesk<b>
 
 <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
