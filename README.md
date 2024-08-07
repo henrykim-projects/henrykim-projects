@@ -18,6 +18,6 @@
 
 <b>Travel</b> 
 - [Tokyo Itinerary & Budget Sheet]()
-- [Montreal Presentation]()
+- [Montreal Presentation](https://github.com/henrykim-projects/montreal_presentation.git)
 
 
