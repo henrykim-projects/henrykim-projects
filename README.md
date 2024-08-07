@@ -21,4 +21,4 @@
 - [Montreal Presentation]()
 
 <h2> 🤳 Connect with me:</h2>
--(https://www.linkedin.com/in/henry-kim-94208a273/)
+https://www.linkedin.com/in/henry-kim-94208a273
