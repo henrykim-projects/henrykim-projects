@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henry! IT Professional, Project Planner, Writer </h1> <br/>
+<h1>Hi, I'm Henry! An IT professional, programmer, writer </h1> <br/>
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
