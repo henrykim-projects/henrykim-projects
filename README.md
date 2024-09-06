@@ -1,5 +1,6 @@
-<h1>Hello, I'm Henry! IT professional, programmger, writer 💻 </h1> <br/>
-IT Professional, Programmer, Writer</br>
+<h1>Hello, I'm Henry!
+IT professional, programmger, writer 💻 </h1> <br/>
+
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
