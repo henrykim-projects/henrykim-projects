@@ -1,4 +1,5 @@
-<h1>Hello, I'm Henry! IT professional, programmger, writer</h1> <br/>
+<h1>Hello, I'm Henry! IT professional, programmger, writer 💻 </h1> <br/>
+IT Professional, Programmer, Writer</br>
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
@@ -10,7 +11,7 @@
 <b>Cybersecurity</b>
 - [Concepts of Cybersecurity: File Integrity Monitor](https://github.com/henrykim-projects/file_integrity_monitor.git)
 
-<h2>📅 PM Projects</h2>
+<h2>📅 PM Projects:</h2>
 
 <b>WGU IT Management</b>
   - [QFT1 - Capstone Comprehesive Business Plan and Implementation Strategy](https://github.com/henrykim-projects/qft_capstone_hskim.git)
