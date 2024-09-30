@@ -1,4 +1,4 @@
-<h1>Hello, I'm Henry!</br> IT professional, Programmer, Writer</h1>
+<h1>Hello, I'm Henry, an IT professional!</br></h1>
 
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
