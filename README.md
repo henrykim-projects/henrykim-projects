@@ -14,8 +14,8 @@
 <h2>📅 PM Projects:</h2>
 
 <b>WGU IT Management</b>
-  - [QFT1 - Capstone Comprehesive Business Plan and Implementation Strategy](https://github.com/henrykim-projects/qft_capstone_hskim.git)
-  - [D361 - Business Simulation and Performance Report Analysis](https://github.com/henrykim-projects/d361_hskim.git)
+  - Comprehesive Business Plan and Implementation Strategy](https://github.com/henrykim-projects/qft_capstone_hskim.git)
+  - Business Performance Report Analysis](https://github.com/henrykim-projects/d361_hskim.git)
 
 
 
