@@ -17,8 +17,6 @@
   - [QFT1 - Capstone Comprehesive Business Plan and Implementation Strategy](https://github.com/henrykim-projects/qft_capstone_hskim.git)
   - [D361 - Business Simulation and Performance Report Analysis](https://github.com/henrykim-projects/d361_hskim.git)
 
-<b>Travel</b> 
-- [Tokyo Itinerary & Budget Sheet]()
-- [Montreal Presentation](https://github.com/henrykim-projects/montreal_presentation.git)
+
 
 
