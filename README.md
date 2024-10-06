@@ -1,5 +1,5 @@
-<h1>Hello, I'm Henry, an IT professional, Software developer, writer-
-whether its words or computers, I like to know how things work and tinker a bit on my own!</br></h1>
+<h1>Hello, I'm Henry, an IT professional, Software developer, Writer-
+Whether its words or computers, I like to make things work!</br></h1>
 
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
