@@ -1,9 +1,6 @@
 <h1>Hello, I'm Henry: IT professional, Software developer, Writer-
 Whether with languages or computers, I like to make things work!</br></h1>
 
-<h2>About Me:</h2>
-[Professional Summary]()
-
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
