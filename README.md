@@ -5,8 +5,8 @@ Whether with languages or computers, I like to make things work!</br></h1>
 
 <b>Active Directory</b>
 - [Active Directory: Preliminary Set Up with Virtual Machines](https://github.com/henrykim-projects/activedirectory_setup)
-- [Active Directory: Deployment and Configuration(DHCP, RAS/NAT, DNS)]()
-- [Active Directory: User Generation with PowerShell Scripting](https://github.com/henrykim-projects/Active-Directory.git)
+- [Active Directory: Deployment and Configuration(DHCP, RAS/NAT, DNS)](https://github.com/henrykim-projects/activedirectory_config)
+- [Active Directory: User Generation with PowerShell Scripting]()
 
 <b>Service Management</b>
 - [Zendesk Service Management: Ticket Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
