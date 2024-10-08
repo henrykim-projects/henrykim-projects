@@ -1,4 +1,4 @@
-<h1>Hello, I'm Henry: IT professional, Software developer, Writer-
+<h1><h1>Hello, it's Henry! <br/><a href="https://www.linkedin.com/in/henry-kim-94208a273/"></a> IT Professional, Programmer, Writer
 Whether with languages or computers, I like to make things work!</br></h1>
 
 <h2>👨‍💻 IT & Software Development Projects:</h2>
