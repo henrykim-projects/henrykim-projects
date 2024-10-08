@@ -9,10 +9,11 @@ Whether with languages or computers, I like to make things work!</br></h1>
 - [Active Directory: User Generation with PowerShell Scripting](https://github.com/henrykim-projects/Active-Directory.git)
 
 <b>Zendesk Service Management</b>
-- [Zendesk Service Management: Ticket Life Cycle and Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+- [Zendesk Service Management: Ticket Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+- [Zendesk Service Management: Process Optimization and Automation](https://github.com/henrykim-projects/zendesk_sampleticket.git)
 
 <b>Cybersecurity</b>
-- [Concepts of Cybersecurity: File Integrity Monitor](https://github.com/henrykim-projects/file_integrity_monitor.git)
+- [Concepts of Cybersecurity: File Integrity Monitor in Python](https://github.com/henrykim-projects/file_integrity_monitor.git)
 
 <h2>📅 PM Projects:</h2>
 
