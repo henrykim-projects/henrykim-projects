@@ -4,7 +4,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 <h2>👨‍💻 IT & Software Development Projects:</h2>
 
 <b>Active Directory</b>
-- [Active Directory: Preliminary Set Up with Virtual Machines](https://github.com/henrykim-projects/Active-Directory.git)
+- [Active Directory: Preliminary Set Up with Virtual Machines](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Deployment and Configuration(DHCP, RAS/NAT, DNS)]()
 - [Active Directory: User Generation with PowerShell Scripting](https://github.com/henrykim-projects/Active-Directory.git)
 
