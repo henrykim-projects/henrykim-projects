@@ -6,7 +6,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 <b>Active Directory</b>
 - [Active Directory: Preliminary VM Setup - Installing Server 2019](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Deployment and Configuration(DHCP, RAS/NAT, DNS)](https://github.com/henrykim-projects/activedirectory_config)
-- [Active Directory: User Access Permissions and Network Security]()
+- [Active Directory: Account Access Permissions and Network Security]()
 
 
 <b>Service Management</b>
