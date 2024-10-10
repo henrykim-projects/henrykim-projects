@@ -10,8 +10,9 @@ Whether with languages or computers, I like to make things work!</br></h1>
 
 
 <b>Service Management</b>
-- [Zendesk Service Management: Ticket Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
 - [Jira Service Management: Process Optimization](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+- [Zendesk Service Management: Ticket Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+
 
 <b>Cybersecurity</b>
 - [Concepts of Cybersecurity: File Integrity Monitor in Python](https://github.com/henrykim-projects/file_integrity_monitor.git)
