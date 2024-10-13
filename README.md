@@ -15,7 +15,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 
 
 <b>Python</b>
-- [Concepts of Cybersecurity: File Integrity Monitor in Python](https://github.com/henrykim-projects/file_integrity_monitor.git)
+- [Intrustion Detection System: File Integrity Monitor in Python](https://github.com/henrykim-projects/file_integrity_monitor.git)
 
 <h2>📅 PM Projects:</h2>
 
