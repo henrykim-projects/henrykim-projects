@@ -7,8 +7,9 @@ Whether with languages or computers, I like to make things work!</br></h1>
 - [Active Directory: Preliminary VM Setup (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Network Deployment and Configuration (DHCP, RAS/NAT, DNS)](https://github.com/henrykim-projects/activedirectory_config)
 - [Active Directory: Account Access Permissions and Network Security]()
-<br></br>
-- [Azure Active Directory (Microsoft Entra ID): Cloud-based Access Management]()
+
+<b>Azure (Microsoft Entra ID)</b>
+- [Azure Active Directory: Cloud-based Access Management]()
 
 
 <b>Service Management</b>
