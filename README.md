@@ -25,7 +25,8 @@ Whether with languages or computers, I like to make things work!</br></h1>
   - [Business Performance Report Analysis: Income Statement and Balance Sheet Evaluation](https://github.com/henrykim-projects/d361_hskim.git)
   - [Comprehesive Business Plan and Implementation Strategy](https://github.com/henrykim-projects/qft_capstone_hskim.git)
 
-
+<b>Website Projects</b>
+  - [Bonjour Hair Website Design]()
 
 
 
