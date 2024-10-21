@@ -9,7 +9,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 - [Active Directory: Account Access Permissions and Network Security]()
 
 <b>Azure (Microsoft Entra ID)</b>
-- [*/*NEW*/* Azure Active Directory: Cloud-based Access Management]()
+- [*\*NEW*\* Azure Active Directory: Cloud-based Access Management]()
 
 
 <b>Service Management</b>
