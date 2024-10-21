@@ -13,7 +13,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 
 
 <b>Service Management</b>
-- [*NEW* Jira Service Management: Process Optimization](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+- [*\*NEW*\* Jira Service Management: Process Optimization](https://github.com/henrykim-projects/zendesk_sampleticket.git)
 - [Zendesk Service Management: Ticket Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
 
 
@@ -27,7 +27,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
   - [Comprehesive Business Plan and Implementation Strategy](https://github.com/henrykim-projects/qft_capstone_hskim.git)
 
 <b>Website Projects</b>
-  - [*NEW* Bonjour Hair Website Design]()
+  - [*\*NEW*\* Bonjour Hair Website Design]()
 
 
 
