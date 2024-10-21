@@ -8,6 +8,8 @@ Whether with languages or computers, I like to make things work!</br></h1>
 - [Active Directory: Network Deployment and Configuration (DHCP, RAS/NAT, DNS)](https://github.com/henrykim-projects/activedirectory_config)
 - [Active Directory: Account Access Permissions and Network Security]()
 
+- [Azure Active Directory (Microsoft Entra ID): Cloud-based Access Management]()
+
 
 <b>Service Management</b>
 - [Jira Service Management: Process Optimization](https://github.com/henrykim-projects/zendesk_sampleticket.git)
