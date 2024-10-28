@@ -10,7 +10,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 
 <b>Service Management</b>
 - [Zendesk Ticket Management: Customer Support and Issue Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
-- [Jira Ticket Management - Tiered Support and Automated Workflow]() 
+- [Jira Ticket Management: Tiered Support and Automated Workflow]() 
 
 
 <b>Python</b>
