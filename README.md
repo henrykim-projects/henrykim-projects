@@ -9,7 +9,8 @@ Whether with languages or computers, I like to make things work!</br></h1>
 - [Active Directory: Account Access Permissions and Network Security](https://github.com/henrykim-projects/activedirectory_users.git)
 
 <b>Service Management</b>
-- [Zendesk Service Management: Ticket Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+- [Zendesk Ticket Management: Customer Support and Issue Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
+- [Jira Ticket Management - Tiered Support and Automated Workflow]() 
 
 
 <b>Python</b>
