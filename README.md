@@ -6,7 +6,7 @@ Whether with languages or computers, I like to make things work!</br></h1>
 <b>Active Directory</b>
 - [Active Directory: Preliminary VM Setup (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Network Deployment and Configuration (DHCP, RAS/NAT, DNS)](https://github.com/henrykim-projects/activedirectory_config)
-- [Active Directory: User Generation and Command Line Utilization](https://github.com/henrykim-projects/activedirectory_users.git)
+- [Active Directory: User Generation and Command Line Utilization (ping, ipconfig, Powershell Scripts](https://github.com/henrykim-projects/activedirectory_users.git)
 
 <b>Service Management</b>
 - [Zendesk Ticket Management: Customer Support and Issue Resolution](https://github.com/henrykim-projects/zendesk_sampleticket.git)
