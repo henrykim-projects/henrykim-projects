@@ -4,16 +4,18 @@
 
 - <b>Active Directory</b>
 
-  - [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
-  - [Active Directory: Network Confirguration(DHCP, DNS, Remote Desktop](https://github.com/henrykim-projects/activedirectory_config)
-  - [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script](https://github.com/henrykim-projects/activedirectory_users)
+- [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
+- [Active Directory: Network Confirguration(DHCP, DNS, Remote Desktop](https://github.com/henrykim-projects/activedirectory_config)
+- [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script](https://github.com/henrykim-projects/activedirectory_users)
+
 - <b>Ticket Management</b>
 
-  - [*\*NEW*\*Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
-  - [Zendesk Service Management: Creating and Resolving Tickets](https://github.com/henrykim-projects/zendesk_ticketmanagement)
+- [*\*NEW*\*Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
+- [Zendesk Service Management: Creating and Resolving Tickets](https://github.com/henrykim-projects/zendesk_ticketmanagement)
+
 - <b>Python</b>
 
-  - [Cybersecurity: File Integrity Monitor in Python (IDS)](https://github.com/henrykim-projects/file_integrity_monitor)
+- [Cybersecurity: File Integrity Monitor in Python (IDS)](https://github.com/henrykim-projects/file_integrity_monitor)
 
 <h2>Project Management Projecets</h2>
 
