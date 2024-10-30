@@ -1,9 +1,11 @@
 <h1>Hi, I'm Henry!<br/>Whether with IT, Programming, and Writing, I like to make things work! </h1>
 
-<h2>👨‍💻 Active Directory Projects:</h2>
+<h2>👨‍💻 IT and Software Development Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Virtual Network Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
+  - [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
+  - [Active Directory: Network Confirguration(DHCP, DNS, Remote Desktop](https://github.com/henrykim-projects/activedirectory_config)
+  - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
