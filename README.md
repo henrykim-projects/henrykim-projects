@@ -6,7 +6,7 @@
 
 - [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Network Confirguration(DHCP, DNS, Remote Desktop)](https://github.com/henrykim-projects/activedirectory_config)
-- [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script](https://github.com/henrykim-projects/activedirectory_users)
+- [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script)](https://github.com/henrykim-projects/activedirectory_users)
 
 <b>Ticket Management</b>
   
