@@ -7,16 +7,16 @@
 - [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Network Confirguration(DHCP, DNS, Remote Desktop](https://github.com/henrykim-projects/activedirectory_config)
 - [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script](https://github.com/henrykim-projects/activedirectory_users)
-
+<br/>
 - <b>Ticket Management</b>
 
 - [*\*NEW*\*Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
 - [Zendesk Service Management: Creating and Resolving Tickets](https://github.com/henrykim-projects/zendesk_ticketmanagement)
-
+<br/>
 - <b>Python</b>
 
 - [Cybersecurity: File Integrity Monitor in Python (IDS)](https://github.com/henrykim-projects/file_integrity_monitor)
-
+<br/>
 <h2>Project Management Projecets</h2>
 
 <b>WGU IT Management</b>
