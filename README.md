@@ -1,7 +1,7 @@
 <h1>Hi, I'm Henry!<br/>Whether with IT, Programming, and Writing, I like to make things work! </h1>
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
-
+<br/>
 - <b>Active Directory</b>
 
 - [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
@@ -17,10 +17,11 @@
 
 - [Cybersecurity: File Integrity Monitor in Python (IDS)](https://github.com/henrykim-projects/file_integrity_monitor)
 <br/>
+<br/>
 <h2>Project Management Projecets</h2>
 
 <b>WGU IT Management</b>
-
+<br/>
 - [Performance Report Evaluation (Feedback Analysis, Customer Contact, Logistics](https://github.com/henrykim-projects/d361_hskim)
 - [Comprehensive Business Plan (SWOT, Marketing, Implementation Strategy)](https://github.com/henrykim-projects/qft_capstone_hskim)
 
