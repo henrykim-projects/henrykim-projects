@@ -16,10 +16,9 @@
 <b>Python</b>
 
 - [Cybersecurity: File Integrity Monitor in Python (IDS)](https://github.com/henrykim-projects/file_integrity_monitor)
-<br/>
-<br/>
+
 <h2>Project Management Projecets</h2>
-<br/>
+
 <b>WGU IT Management</b>
 <br/>
 - [Performance Report Evaluation (Feedback Analysis, Customer Contact, Logistics](https://github.com/henrykim-projects/d361_hskim)
