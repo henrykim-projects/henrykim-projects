@@ -9,7 +9,7 @@
 - <b>Ticket Management</b>
   - [*\*NEW*\*Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
   - [Zendesk Service Management: Creating and Resolving Tickets](https://github.com/henrykim-projects/zendesk_ticketmanagement)
-- <b<Python</b>
+- <b>Python</b>
   - [Cybersecurity: File Integrity Monitor in Python (IDS)](https://github.com/henrykim-projects/file_integrity_monitor)
 
 <h2>IT Management Projecets</h2>
