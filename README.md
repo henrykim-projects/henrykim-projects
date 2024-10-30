@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henry!<br/>Whether with IT, Programming, and Writing, I like to make things work! </h1>
+<h1>Hi, I'm Henry! Whether with IT, Programming, and Writing, I like to make things work! </h1>
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 <br/>
