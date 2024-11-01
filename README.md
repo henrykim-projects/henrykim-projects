@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henry! IT, Programming<br/>I like to make things work! </h1>
+<h1>Hi, I'm Henry! IT, Software</h1>
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
