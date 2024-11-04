@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henry! Welcome to my portfolio for IT and Software</h1>
+<h1>Hi, I'm Henry! Welcome to my portfolio for IT and Software.</h1>
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
