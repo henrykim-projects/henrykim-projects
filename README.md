@@ -17,7 +17,7 @@
 
 - [Cybersecurity IDS: File Integrity Monitor in Python](https://github.com/henrykim-projects/file_integrity_monitor)
 
-<h2>Project Management Projecets</h2>
+<h2>📆 Project Management Projecets</h2>
 
 <b>WGU IT Management</b>
 <br/>
