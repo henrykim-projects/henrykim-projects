@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henry! Welcome to my portfolio for IT and Software.</h1>
+<h1>Hi, I'm Henry! Here are my projects for IT and Software.</h1>
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
@@ -10,7 +10,7 @@
 
 <b>Ticket Management</b>
   
-- [*\*NEW*\* Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
+- [Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
 - [Zendesk Service Management: Creating and Resolving Tickets](https://github.com/henrykim-projects/zendesk_ticketmanagement)
 
 <h2>🎯 Cybersecurity Projects:</h2>
