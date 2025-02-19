@@ -13,6 +13,10 @@
 - [Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
 - [Zendesk Service Management: Creating and Resolving Tickets](https://github.com/henrykim-projects/zendesk_ticketmanagement)
 
+<b>CCNA Networking</b>
+
+- [Exploring Packet Tracers, Routers, and Switches]()
+
 <h2>🎯 Cybersecurity Projects:</h2>
 
 <b>Python</b>
