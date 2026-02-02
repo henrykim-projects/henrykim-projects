@@ -1,4 +1,4 @@
-<h1>Hello! I'm Henry, and welcome to my portfoilio for IT and Software projects.</h1>
+<h1>Hi! I'm Henry, an IT professional based in New York. Here are my projects highlighting the technology I use day-to-day.</h1>
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
