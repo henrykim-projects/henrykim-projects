@@ -28,7 +28,7 @@
 <b>WGU IT Management</b>
 <br/>
 - [Performance Report Evaluation (Feedback Analysis, Customer Contact, Logistics)](https://github.com/henrykim-projects/d361_hskim)
-- [Comprehensive Business Plan (SWOT, Marketing, Implementation Strategy)](https://github.com/henrykim-projects/qft_capstone_hskim)
+- [Comprehensive Cybersecurity Business Plan (SWOT, Marketing, Implementation Strategy)](https://github.com/henrykim-projects/qft_capstone_hskim)
 
 
 
