@@ -1,4 +1,4 @@
-<h1>Hi! I'm Henry, an IT professional based in Brooklyn, New York. 
+<h1>Hi! I'm Henry - an IT professional based in Brooklyn, New York. 
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
