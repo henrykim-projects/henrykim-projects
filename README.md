@@ -1,5 +1,4 @@
 <h1>Hi! I'm Henry, an IT professional based in Brooklyn, New York. 
-  Here is my portfolio highlighting technology I use day-to-day.
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
