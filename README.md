@@ -2,15 +2,16 @@
 
 <h2>👨‍💻 IT and Software Development Projects:</h2>
 
+<b> Cloud Identity & Endpoint Management<b>
+
+- Microsoft 365 Entra ID
+- Entra ID E5 License Assignment Best Practices
+
 <b>Active Directory</b>
 
 - [Active Directory: Virtual Machine Preliminary Set Up (Server 2019, Domain Controller)](https://github.com/henrykim-projects/activedirectory_setup)
 - [Active Directory: Network Configuration (DHCP, DNS, Remote Desktop)](https://github.com/henrykim-projects/activedirectory_config)
 - [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script)](https://github.com/henrykim-projects/activedirectory_users)
-
-<b> Cloud Management <b>
-- Microsoft 365 Entra ID
-- Entra ID E5 License Assignment Best Practices
 
 <b>Ticket Management</b>
   
