@@ -8,6 +8,10 @@
 - [Active Directory: Network Configuration (DHCP, DNS, Remote Desktop)](https://github.com/henrykim-projects/activedirectory_config)
 - [Active Directory: User Generation and Windows Command Terminal (ipconfig, PowerShell Script)](https://github.com/henrykim-projects/activedirectory_users)
 
+<b> Cloud Management <b>
+- Microsoft 365 Entra ID
+- Entra ID E5 License Assignment Best Practices
+
 <b>Ticket Management</b>
   
 - [Jira Service Management: Ticket Lifecycle and Process Optimization](https://github.com/henrykim-projects/jira_ticketmanagement)
