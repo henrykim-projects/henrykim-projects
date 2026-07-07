@@ -23,6 +23,9 @@
 
 <h2>🎯 Cybersecurity Projects:</h2>
 
+<b> Sophos <b>
+- Sophos Central Endpoint Protection Certified Administrator v5.0 Certification
+
 <b>Python</b>
 
 - [Cybersecurity IDS (Intrusion Detection System): File Integrity Monitor in Python](https://github.com/henrykim-projects/file_integrity_monitor)
